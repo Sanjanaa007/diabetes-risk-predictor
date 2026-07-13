@@ -23,9 +23,10 @@ Built on the **BRFSS 2015** dataset (CDC's Behavioral Risk Factor Surveillance S
 
 <div align="center">
 
-*(add a screenshot or GIF of your app here — drag an image into the repo and reference it like below)*
 
-`![App Screenshot](screenshot.png)`
+
+<img width="1399" height="806" alt="image" src="https://github.com/user-attachments/assets/75b80736-58d5-4994-9ed0-0ab1df2460ab" />
+
 
 </div>
 
